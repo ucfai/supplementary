@@ -1,0 +1,18 @@
+#: #############################################################################
+#: - name: "<full-lecture-title>"
+#:   file: "<url-for-website>" # looks like... /<group>/<semester>/<file>
+#:   inst: [<instructor_1>, <instructor_2>, ...]
+#:   date: "<MM>/<DD>"
+#:   desc: >- # the ">-" specifies to YAML its a multi-line string
+#:     <meeting-description>
+#: #############################################################################
+- name: "A Math Refresher and Scientic Computing Crash Course"
+  file: "programming-math-camp"
+  covr: "https://www.olcf.ornl.gov/wp-content/uploads/2017/11/iStock_Patton_small.jpg"
+  tags: ["python", "basics", "linear-algebra", "calculus", "derivatives", "gradients"]
+  inst: ["ionlights"]
+  desc: >-
+    We'll be covering the foundational mathematics for Machine Learning, spanning
+    Multivariate Calculus to Linear Algebra, with a sprinkling of Statistics.
+    Followed by coverage of fundamental programming ideas for Data Science, Machine
+    Learning, and generally intelligence research and engineering.
