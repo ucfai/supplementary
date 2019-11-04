@@ -1,0 +1,13 @@
+{
+    "id": "ucfaibot/supplementary-fa19-programming-math-camp",
+    "title": "supplementary-fa19-programming-math-camp",
+    "code_file": "2019-09-16-programming-math-camp.ipynb",
+    "language": "python",
+    "kernel_type": "notebook",
+    "is_private": false,
+    "enable_gpu": false,
+    "enable_internet": true,
+    "dataset_sources": [],
+    "competition_sources": ["ucfai-supplementary-fa19-programming-math-camp"],
+    "kernel_sources": []
+}
