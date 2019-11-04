@@ -12,7 +12,8 @@
 coordinators:
   - github: "ionlights" 
     role: "Lecturer"
-
+  - github: "brandons209"
+    role: "Lecturer"
 
 meetings:
   start_offset: 4  # how many weeks into the semester should we start?
