@@ -16,3 +16,14 @@
     Multivariate Calculus to Linear Algebra, with a sprinkling of Statistics.
     Followed by coverage of fundamental programming ideas for Data Science, Machine
     Learning, and generally intelligence research and engineering.
+
+- name: "Applications of Neural Networks"
+  file: "app-nns"
+  tags: ["python", "neural networks", "nns", "rnns", "cnns", "real-world"]
+  covr: "https://www.businessenglishpod.com/wordpress/wp-content/uploads/VV-54-Technical-English-Artificial-Intelligence-AI-COVER.jpg"
+  inst: ["brandons209"]
+  desc: >-
+    In this supplmentary workshop we will be taking a dive into different datasets that shows how machine learning
+    can directly help people. This is a full hands on workshop where we will together work in
+    analyzing our data, building our dataloaders and finally our models together. Come
+    and help create the future!
