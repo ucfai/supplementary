@@ -1,0 +1,13 @@
+{
+    "id": "ucfaibot/supplementary-fa19-app-nns",
+    "title": "supplementary-fa19-app-nns",
+    "code_file": "2019-09-23-app-nns.ipynb",
+    "language": "python",
+    "kernel_type": "notebook",
+    "is_private": false,
+    "enable_gpu": false,
+    "enable_internet": true,
+    "dataset_sources": [],
+    "competition_sources": ["ucfai-supplementary-fa19-app-nns"],
+    "kernel_sources": []
+}
