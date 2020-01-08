@@ -6,13 +6,81 @@
 #:   desc: >- # the ">-" specifies to YAML its a multi-line string
 #:     <meeting-description>
 #: #############################################################################
-- name: "A Math Refresher and Scientic Computing Crash Course"
-  file: "programming-math-camp"
-  covr: "https://www.olcf.ornl.gov/wp-content/uploads/2017/11/iStock_Patton_small.jpg"
-  tags: ["python", "basics", "linear-algebra", "calculus", "derivatives", "gradients"]
-  inst: ["ionlights"]
-  desc: >-
-    We'll be covering the foundational mathematics for Machine Learning, spanning
-    Multivariate Calculus to Linear Algebra, with a sprinkling of Statistics.
-    Followed by coverage of fundamental programming ideas for Data Science, Machine
-    Learning, and generally intelligence research and engineering.
+- required:
+    title: "A Math Refresher and Scientic Computing Crash Course"
+    filename: "programming-math-camp"
+    cover: "https://www.olcf.ornl.gov/wp-content/uploads/2017/11/iStock_Patton_small.jpg"
+    instructors: ["ionlights"]
+    description: >-
+      We'll be covering the foundational mathematics for Machine Learning, spanning
+      Multivariate Calculus to Linear Algebra, with a sprinkling of Statistics.
+      Followed by coverage of fundamental programming ideas for Data Science, Machine
+      Learning, and generally intelligence research and engineering.
+  optional:
+    date: "09/16"
+    tags: ["python", "basics", "linear-algebra", "calculus", "derivatives", "gradients"]
+    slides: ""
+    papers: []
+    kaggle:
+      datasets: []
+      competitions: []
+      kernels: []
+
+- required:
+    title: "AI@UCF x ACM-W: An Intro to Artificial Intelligence"
+    filename: "acmw"
+    cover: "https://www.businessenglishpod.com/wordpress/wp-content/uploads/VV-54-Technical-English-Artificial-Intelligence-AI-COVER.jpg"
+    instructors: ["irenelt97", "ionlights"]
+    description: >-
+      We're partnering with ACM-W to give a brief overview of Artificial Intelligence
+      and get your feet wet with some intro programming in Neural Networks. Breaking the
+      barriers to entry by providing a guided image classification workshop.
+  optional:
+    date: "10/30"
+    tags: ["acm-w", "python", "neural networks", "nns"]
+    slides: "11EC246GES6V0W49MEAGk4gOjz1vEskV3kpoyQXlVwpA"
+    papers: []
+    kaggle:
+      datasets: []
+      competitions: []
+      kernels: []
+
+- required:
+    title: "Applications of Neural Networks"
+    filename: "app-nns"
+    cover: "https://www.businessenglishpod.com/wordpress/wp-content/uploads/VV-54-Technical-English-Artificial-Intelligence-AI-COVER.jpg"
+    instructors: ["brandons209"]
+    description: >-
+      In this supplmentary workshop we will be taking a dive into different datasets that shows how machine learning
+      can directly help people. This is a full hands on workshop where we will together work in
+      analyzing our data, building our dataloaders and finally our models together. Come
+      and help create the future!
+  optional:
+    date: "11/04"
+    tags: ["python", "neural networks", "nns", "rnns", "cnns", "real-world"]
+    slides: ""
+    papers: []
+    kaggle:
+      datasets: []
+      competitions: []
+      kernels: []
+
+- required:
+    title: "Getting into Research, a Machine Learning Perspective"
+    filename: "getting-into-research"
+    cover: "https://www.businessenglishpod.com/wordpress/wp-content/uploads/VV-54-Technical-English-Artificial-Intelligence-AI-COVER.jpg"
+    instructors: ["ionlights", "irenelt97"]
+    description: >-
+      Getting into research can be intimidating. This meeting, we'll give you an
+      overview of what grad school is like, what's involved in a PhD, what research is,
+      how to narrow in on a research field, and finish off with where you can go to do
+      research along with getting into those places.
+  optional:
+    date: "11/18"
+    tags: ["research", "getting-into-research", "machine learning", "grad school"]
+    slides: "14uUXIrdmXMGChj4dYaCZxcQ-rFonLmKqlSppLu8cY_I"
+    papers: []
+    kaggle:
+      datasets: []
+      competitions: []
+      kernels: []
