@@ -4,10 +4,7 @@ meeting00:
     cover: 'https://www.olcf.ornl.gov/wp-content/uploads/2017/11/iStock_Patton_small.jpg'
     filename: 'math-primer-python-bootcamp'
     instructors: ['calvinyong', 'brandons209']
-    description: 'We'll be covering the foundational mathematics for Machine Learning, spanning
-      Multivariate Calculus to Linear Algebra, with a sprinkling of Statistics.
-      Following this, we'll be reviewing the basics of Python concerning tools, syntax, and 
-      datastructures.'
+    description: "We'll be covering the foundational mathematics for Machine Learning, spanning Multivariate Calculus to Linear Algebra, with a sprinkling of Statistics. Following this, we'll be reviewing the basics of Python concerning tools, syntax, and data structures."
   optional:
     date: '01/23'
     room: ''
