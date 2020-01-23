@@ -1,5 +1,6 @@
 directors:
-  - "ahkerrigan, sirroboto" # fill in your github username
+  - "sirroboto" # fill in your github username
+  - "ahkerrigan"
 
 
 coordinators:
@@ -8,6 +9,7 @@ coordinators:
   - "ch1pless"
   - "calvinyong"
   - "bb912"
+  - "ionlights"
 
 
 office_hours:
