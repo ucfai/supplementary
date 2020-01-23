@@ -1,6 +1,6 @@
 meeting00:
   required:
-    title: 'A Math Refresher and Scientic Computing Crash Course'
+    title: 'A Math Refresher and Scientific Computing Crash Course'
     cover: 'https://www.olcf.ornl.gov/wp-content/uploads/2017/11/iStock_Patton_small.jpg'
     filename: 'math-primer-python-bootcamp'
     instructors: ["calvinyong","brandons209"]
