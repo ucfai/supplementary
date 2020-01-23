@@ -1,17 +1,20 @@
 meeting00:
   required:
-    title: ''
-    cover: ''
-    filename: ''
-    instructors: []
-    description: ''
+    title: 'A Math Refresher and Scientic Computing Crash Course'
+    cover: 'https://www.olcf.ornl.gov/wp-content/uploads/2017/11/iStock_Patton_small.jpg'
+    filename: 'math-primer-python-bootcamp'
+    instructors: ["calvinyong","brandons209"]
+    description: 'We'll be covering the foundational mathematics for Machine Learning, spanning
+      Multivariate Calculus to Linear Algebra, with a sprinkling of Statistics.
+      Following this, we'll be reviewing the basics of Python concerning tools, syntax, and 
+      datastructures.'
   optional:
-    date: ''
+    date: '01/23'
     room: ''
-    tags: []
+    tags: ["python", "basics", "linear-algebra", "calculus", "derivatives", "gradients"]
     papers: null
     urls:
-      slides: ''
+      slides: 'https://docs.google.com/presentation/d/1UifKinX6Cd3DK_EetHIpKdf9rsliLwoQVfWRnzGz3UI/edit?usp=drive_web&ouid=106662155644590398174'
       youtube: ''
     kaggle:
       datasets: []
