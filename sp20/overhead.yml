@@ -1,19 +1,23 @@
 directors:
-  - "" # fill in your github username
+  - "ahkerrigan, sirroboto" # fill in your github username
 
 
 coordinators:
-  - "" # fill in your github username
+  - "brandons209" # fill in your github username
+  - "jordanstarkey95"
+  - "ch1pless"
+  - "calvinyong"
+  - "bb912"
 
 
 office_hours:
-  - name: ""  # fill in your github username
-    time: ""
-    wday: ""
+  - name: "calvinyong"  # fill in your github username
+    time: "1900-2000"
+    wday: "Fri"
 
 
 meetings:
-  wday: ""  # what day of the week? (Mon, Tue, Wed, Thu, Fri, Sat, Sun)
-  time: ""  # military time (e.g. 1800-2000)
-  room: ""  # e.g. HEC 119
+  wday: "Thu"  # what day of the week? (Mon, Tue, Wed, Thu, Fri, Sat, Sun)
+  time: "1800-2000"  # military time (e.g. 1800-2000)
+  room: "ENG2 203"  # e.g. HEC 119
   start_offset: 2  # what week of the semester should we start? (0-indexed)
