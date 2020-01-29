@@ -1,17 +1,28 @@
 meeting00:
   required:
-    title: 'A Math Refresher and Scientific Computing Crash Course'
-    cover: 'https://www.olcf.ornl.gov/wp-content/uploads/2017/11/iStock_Patton_small.jpg'
-    filename: 'math-primer-python-bootcamp'
-    instructors: ['calvinyong', 'brandons209']
-    description: "We'll be covering the foundational mathematics for Machine Learning, spanning Multivariate Calculus to Linear Algebra, with a sprinkling of Statistics. Following this, we'll be reviewing the basics of Python concerning tools, syntax, and data structures."
+    title: A Math Refresher and Scientific Computing Crash Course
+    cover: https://www.olcf.ornl.gov/wp-content/uploads/2017/11/iStock_Patton_small.jpg
+    filename: math-primer-python-bootcamp
+    instructors:
+    - calvinyong
+    - brandons209
+    description: We'll be covering the foundational mathematics for Machine Learning,
+      spanning Multivariate Calculus to Linear Algebra, with a sprinkling of Statistics.
+      Following this, we'll be reviewing the basics of Python concerning tools, syntax,
+      and data structures.
   optional:
-    date: '01/23'
+    date: '2020-01-23T18:00:00'
     room: ''
-    tags: ["python", "basics", "linear-algebra", "calculus", "derivatives", "gradients"]
+    tags:
+    - python
+    - basics
+    - linear-algebra
+    - calculus
+    - derivatives
+    - gradients
     papers: null
     urls:
-      slides: 'https://docs.google.com/presentation/d/1UifKinX6Cd3DK_EetHIpKdf9rsliLwoQVfWRnzGz3UI/edit?usp=drive_web&ouid=106662155644590398174'
+      slides: https://docs.google.com/presentation/d/1UifKinX6Cd3DK_EetHIpKdf9rsliLwoQVfWRnzGz3UI/edit?usp=drive_web&ouid=106662155644590398174
       youtube: ''
     kaggle:
       datasets: []
@@ -26,7 +37,7 @@ meeting01:
     instructors: []
     description: ''
   optional:
-    date: ''
+    date: '2020-01-30T18:00:00'
     room: ''
     tags: []
     papers: null
@@ -46,7 +57,7 @@ meeting02:
     instructors: []
     description: ''
   optional:
-    date: ''
+    date: '2020-02-06T18:00:00'
     room: ''
     tags: []
     papers: null
@@ -66,7 +77,7 @@ meeting03:
     instructors: []
     description: ''
   optional:
-    date: ''
+    date: '2020-02-13T18:00:00'
     room: ''
     tags: []
     papers: null
@@ -86,7 +97,7 @@ meeting04:
     instructors: []
     description: ''
   optional:
-    date: ''
+    date: '2020-02-20T18:00:00'
     room: ''
     tags: []
     papers: null
@@ -106,7 +117,7 @@ meeting05:
     instructors: []
     description: ''
   optional:
-    date: ''
+    date: '2020-02-27T18:00:00'
     room: ''
     tags: []
     papers: null
@@ -126,7 +137,7 @@ meeting06:
     instructors: []
     description: ''
   optional:
-    date: ''
+    date: '2020-03-05T18:00:00'
     room: ''
     tags: []
     papers: null
@@ -146,7 +157,7 @@ meeting07:
     instructors: []
     description: ''
   optional:
-    date: ''
+    date: '2020-03-19T18:00:00'
     room: ''
     tags: []
     papers: null
@@ -166,7 +177,7 @@ meeting08:
     instructors: []
     description: ''
   optional:
-    date: ''
+    date: '2020-03-26T18:00:00'
     room: ''
     tags: []
     papers: null
@@ -186,7 +197,7 @@ meeting09:
     instructors: []
     description: ''
   optional:
-    date: ''
+    date: '2020-04-02T18:00:00'
     room: ''
     tags: []
     papers: null
@@ -206,7 +217,7 @@ meeting10:
     instructors: []
     description: ''
   optional:
-    date: ''
+    date: '2020-04-09T18:00:00'
     room: ''
     tags: []
     papers: null
@@ -226,7 +237,7 @@ meeting11:
     instructors: []
     description: ''
   optional:
-    date: ''
+    date: '2020-04-16T18:00:00'
     room: ''
     tags: []
     papers: null
