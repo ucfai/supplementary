@@ -31,18 +31,25 @@ meeting00:
       enable_gpu: false
 meeting01:
   required:
-    title: ''
+    title: 'Getting into [ML] Research'
     cover: ''
-    filename: ''
-    instructors: []
+    filename: 'getting-into-research'
+    instructors: 
+    - ionlights
     description: ''
   optional:
     date: '2020-01-30T18:00:00'
-    room: ''
-    tags: []
+    room: 'ENG2 203'
+    tags: 
+    - getting into research
+    - machine learning
+    - grad school
+    - artificial intelligence
+    - cognitive science
+    - computational modelling
     papers: null
     urls:
-      slides: ''
+      slides: 'https://docs.google.com/presentation/d/13h2elogjw8er95IWqU2vU9MKtnt9XqhE4DggTo40LT0/edit'
       youtube: ''
     kaggle:
       datasets: []
