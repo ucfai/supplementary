@@ -58,15 +58,28 @@ meeting01:
       enable_gpu: false
 meeting02:
   required:
-    title: ''
-    cover: ''
-    filename: ''
-    instructors: []
-    description: ''
+    title: 'Introduction to Statistics, Featuring Datascience'
+    cover: 'https://www.upgrad.com/blog/wp-content/uploads/2018/02/FI2_Statistics-for-Data-Science-uai-1440x438.png'
+    filename: 'stats-intro'
+    instructors:
+    - calvinyong
+    description: 'Data science is grounded in statistics, and to make sense of your data before predicting
+    with any model requires some statistical analysis and lots of charts. The huge portion of time and 
+    resources for building a model isn't the model or training, but the data preparation and cleaning.
+    How do we clean data? Make meaningful observations? Create graphs that represent data trends?
+    The answer to these questions is highly sort after in all fields, so learning the basics
+    here is a great start to your future in AI and Data Science!'
   optional:
     date: '2020-02-06T18:00:00'
     room: ''
-    tags: []
+    tags:
+    - statistics
+    - descriptive statistics
+    - datascience
+    - data cleaning
+    - data prep
+    - graphing
+    - correlations
     papers: null
     urls:
       slides: ''
