@@ -1,0 +1,13 @@
+{
+    "id": "ucfaibot/supplementary-sp20-getting-into-research",
+    "title": "supplementary-sp20-getting-into-research",
+    "code_file": "getting-into-research.ipynb",
+    "language": "python",
+    "kernel_type": "notebook",
+    "is_private": false,
+    "enable_gpu": false,
+    "enable_internet": true,
+    "dataset_sources": [],
+    "competition_sources": ["ucfai-supplementary-sp20-getting-into-research"],
+    "kernel_sources": []
+}

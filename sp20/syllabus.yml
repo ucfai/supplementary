@@ -6,6 +6,7 @@ meeting00:
     instructors:
     - calvinyong
     - brandons209
+    - jordanstarkey95
     description: We'll be covering the foundational mathematics for Machine Learning,
       spanning Multivariate Calculus to Linear Algebra, with a sprinkling of Statistics.
       Following this, we'll be reviewing the basics of Python concerning tools, syntax,
@@ -34,13 +35,13 @@ meeting01:
     title: 'Getting into [ML] Research'
     cover: ''
     filename: 'getting-into-research'
-    instructors: 
+    instructors:
     - ionlights
     description: ''
   optional:
     date: '2020-01-30T18:00:00'
     room: 'ENG2 203'
-    tags: 
+    tags:
     - getting into research
     - machine learning
     - grad school
@@ -63,12 +64,8 @@ meeting02:
     filename: 'stats-intro'
     instructors:
     - calvinyong
-    description: 'Data science is grounded in statistics, and to make sense of your data before predicting
-    with any model requires some statistical analysis and lots of charts. The huge portion of time and 
-    resources for building a model isn't the model or training, but the data preparation and cleaning.
-    How do we clean data? Make meaningful observations? Create graphs that represent data trends?
-    The answer to these questions is highly sort after in all fields, so learning the basics
-    here is a great start to your future in AI and Data Science!'
+    - jordanstarkey95
+    description: Data Science is grounded in statistics, and to make sense of your data before predicting with any model requires some statistical analysis and lots of charts. A significant portion of your time and resources are spent on data preparation and clearning, not model building. How do we clean data? How do we make meaningful observations? How can you create graphs that represent data trends? Answers to these questions are highly sought after in all computationally-driven fields, so learning the basics here is a great start to your future in AI, Machine Learning, and Data Science!
   optional:
     date: '2020-02-06T18:00:00'
     room: ''
@@ -86,7 +83,7 @@ meeting02:
       youtube: ''
     kaggle:
       datasets: []
-      competitions: []
+      competitions: ["boston-housing"]
       kernels: []
       enable_gpu: false
 meeting03:

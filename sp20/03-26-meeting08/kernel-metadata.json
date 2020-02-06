@@ -1,0 +1,13 @@
+{
+    "id": "ucfaibot/supplementary-sp20-meeting08",
+    "title": "supplementary-sp20-meeting08",
+    "code_file": "meeting08.ipynb",
+    "language": "python",
+    "kernel_type": "notebook",
+    "is_private": false,
+    "enable_gpu": false,
+    "enable_internet": true,
+    "dataset_sources": [],
+    "competition_sources": ["ucfai-supplementary-sp20-meeting08"],
+    "kernel_sources": []
+}

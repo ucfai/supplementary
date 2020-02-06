@@ -1,0 +1,13 @@
+{
+    "id": "ucfaibot/supplementary-sp20-stats-intro",
+    "title": "supplementary-sp20-stats-intro",
+    "code_file": "stats-intro.ipynb",
+    "language": "python",
+    "kernel_type": "notebook",
+    "is_private": false,
+    "enable_gpu": false,
+    "enable_internet": true,
+    "dataset_sources": [],
+    "competition_sources": ["ucfai-supplementary-sp20-stats-intro", "boston-housing"],
+    "kernel_sources": []
+}
