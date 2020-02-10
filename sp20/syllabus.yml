@@ -89,8 +89,8 @@ meeting02:
 meeting03:
   required:
     title: 'Visualizing Your Data and Advanced Visualization'
-    cover: ''
-    filename: ''
+    cover: 'https://www.computerpoint.com.np/upload/gallery/Course/data%20science2.jpg'
+    filename: 'visualization'
     instructors:
     - cokeacolaking
     - calvinyong
