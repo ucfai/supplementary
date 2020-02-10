@@ -88,15 +88,23 @@ meeting02:
       enable_gpu: false
 meeting03:
   required:
-    title: ''
-    cover: ''
-    filename: ''
-    instructors: []
-    description: ''
+    title: 'Visualizing Your Data and Advanced Visualization'
+    cover: 'https://www.computerpoint.com.np/upload/gallery/Course/data%20science2.jpg'
+    filename: 'visualization'
+    instructors:
+    - cokeacolaking
+    - calvinyong
+    description: 'Before you start working with data, it is good to understand it. We will be covering how to use Seaborn for visualization.'
   optional:
     date: '2020-02-13T18:00:00'
     room: ''
-    tags: []
+    tags: 
+    - python
+    - notebook
+    - graphing
+    - seaborn
+    - datascience
+    - missing-values
     papers: null
     urls:
       slides: ''
