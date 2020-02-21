@@ -116,11 +116,12 @@ meeting03:
       enable_gpu: false
 meeting04:
   required:
-    title: ''
-    cover: ''
-    filename: ''
-    instructors: []
-    description: ''
+    title: 'A Gentle Introduction to Preprocessing and Data Augmentation'
+    cover: 'https://cropper.watch.aetnd.com/public-content-aetn.video.aetnd.com/video-thumbnails/AETN-History_VMS/21/178/SF_THC_HOSF_64790_Titanic_HD.jpg?w=1440'
+    filename: 'Preprocessing'
+    instructors:
+    - AHkerrigan
+    description: 'Preprocessing is how you turn average data into awesome data. Anyone can toss data into a machine learning model, it takes a data scientist to pull information about of seemingly nowhere'
   optional:
     date: '2020-02-20T18:00:00'
     room: ''
@@ -136,15 +137,23 @@ meeting04:
       enable_gpu: false
 meeting05:
   required:
-    title: ''
-    cover: ''
-    filename: ''
-    instructors: []
-    description: ''
+    title: 'Just one more layer: An Overview of Model Crafting'
+    cover: 'https://blogs.sas.com/content/subconsciousmusings/files/2017/05/modelstacking.png'
+    filename: 'Modeling'
+    instructors:
+    AHKerrigan
+    description: 'Any basic regression or nueral network can pull out a 85% accuracy, but it takes clever stacking of different models to claim that coveted extra 5%.'
   optional:
     date: '2020-02-27T18:00:00'
-    room: ''
-    tags: []
+    room: 'ENG2-203'
+    tags:
+    - python
+    - notebook
+    - graphing
+    - modeling
+    - seaborn
+    - datascience
+    - missing-values
     papers: null
     urls:
       slides: ''
