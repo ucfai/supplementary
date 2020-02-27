@@ -142,7 +142,7 @@ meeting05:
     filename: 'Modeling'
     instructors:
     AHKerrigan
-    description: 'Any basic regression or nueral network can pull out a 85% accuracy, but it takes clever stacking of different models to claim that coveted extra 5%.'
+    description: 'Any basic regression or neural network can pull out a 85% accuracy, but it takes clever stacking of different models to claim that coveted extra 5%.'
   optional:
     date: '2020-02-27T18:00:00'
     room: 'ENG2-203'
@@ -165,15 +165,24 @@ meeting05:
       enable_gpu: false
 meeting06:
   required:
-    title: ''
-    cover: ''
-    filename: ''
-    instructors: []
-    description: ''
+    title: 'Terminal and productivity'
+    cover: 'https://hackernoon.com/drafts/py2837hx.png'
+    filename: 'terminal'
+    instructors:
+    - calvinyong
+    description: 'The terminal is not only useful for work. It can be a great part of your workflow and your daily life. Come out to learn about the basics of the terminal, like navigating and manipulating files, and how the terminal and other useful applications like zsh and tmux can be a productive part in your workflow when writing code or making documents.'
   optional:
     date: '2020-03-05T18:00:00'
     room: ''
-    tags: []
+    tags:
+    - terminal
+    - bash
+    - zsh
+    - ranger
+    - vim
+    - tmux
+    - python
+    - latex
     papers: null
     urls:
       slides: ''
