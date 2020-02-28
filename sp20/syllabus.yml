@@ -141,7 +141,7 @@ meeting05:
     cover: 'https://blogs.sas.com/content/subconsciousmusings/files/2017/05/modelstacking.png'
     filename: 'Modeling'
     instructors:
-    AHKerrigan
+    - AHKerrigan
     description: 'Any basic regression or nueral network can pull out a 85% accuracy, but it takes clever stacking of different models to claim that coveted extra 5%.'
   optional:
     date: '2020-02-27T18:00:00'
